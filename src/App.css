@@ -512,3 +512,13 @@ h6 {
   }
 }
 /* end of rooms fitler*/
+
+/* footer */
+.footer {
+  display: flex;
+  background-color: #dbd8d8;
+  color: black;
+  padding-top: 20px;
+  align-items: center;
+  justify-content: center;
+}
